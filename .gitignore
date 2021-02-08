@@ -219,3 +219,4 @@ ENV/
 !**/migrations
 
 !**/migrations/__init__.py
+.idea/workspace.xml
